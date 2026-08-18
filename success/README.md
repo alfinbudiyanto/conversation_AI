@@ -6,4 +6,4 @@ https://chatgpt.com/share/6a8435df-0a00-83ea-b359-7d64e9f45557
 ```
 
 ##### The Problem
-[see here](github.com/alfinbudiyanto/conversation_AI/)
+[see here](https://github.com/alfinbudiyanto/conversation_AI/blob/main/success/gpu-screen-recorder.log)
