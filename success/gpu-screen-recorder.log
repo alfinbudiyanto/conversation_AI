@@ -1,4 +1,3 @@
-```
 === gpu-screen-recorder recording 2026-08-18 16:17:47 ===
 gsr info: option '-w portal' was used without '-restore-portal-session yes'. The previous screencast session will be ignored
 gsr info: gsr_capture_portal_setup_dbus: CreateSession
@@ -39,4 +38,3 @@ gsr error: your gpu does not support 'h264' video codec. If you are sure that yo
   If your GPU doesn't support hardware accelerated video encoding then you can use '-fallback-cpu-encoding yes' option to encode with your cpu instead.
 gsr info: pipewire: stream 0x55caa5e034a0 previous state: "streaming", new state: "paused" (error: none)
 gsr info: pipewire: stream 0x55caa5e034a0 previous state: "paused", new state: "unconnected" (error: none)
-```
