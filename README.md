@@ -13,14 +13,6 @@ link :
 https://chatgpt.com/s/t_6a83dab7e1d48191ab4d4d06a5f29ffb
 ```
 
-##### 3. Noctalia idle
-link :
-```
-https://chatgpt.com/s/t_6a83f5051e388191973c8bf3672b685b
-```
-note: try to update [`driftwm`](github.com/malbiruk/driftwm) first
-
-
 ## Temporary 
 Noctalia power hook
 ```
