@@ -19,3 +19,10 @@ link :
 https://chatgpt.com/s/t_6a83f5051e388191973c8bf3672b685b
 ```
 note: try to update [`driftwm`](github.com/malbiruk/driftwm) first
+
+
+## Temporary 
+Noctalia power hook
+```
+https://chatgpt.com/share/6a855dc2-b3a0-83ea-8b68-8fa3df1e3b4c
+```
