@@ -10,10 +10,10 @@ link :
 ##### 2. Noctalia cant detecting which is monitor im on
 link :
 ```
-  https://chatgpt.com/s/t_6a83dab7e1d48191ab4d4d06a5f29ffb
+  https://chatgpt.com/s/t_6a872e06389c819194c7e516f8738b75
 ```
 
-##### 5. Noctalia power hook analyze 
+##### 3. Noctalia power hook analyze 
 link :
 ```
   https://chatgpt.com/share/6a85b634-3464-83ea-9add-2a1880875f8a
